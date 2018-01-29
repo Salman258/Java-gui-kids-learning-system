@@ -1,4 +1,3 @@
-//Liew Yu Hung 0325770
 
 import java.io.File;
 import java.io.PrintWriter;
