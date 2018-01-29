@@ -1,4 +1,4 @@
-//Liew Yu Hung 032s5770
+
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
