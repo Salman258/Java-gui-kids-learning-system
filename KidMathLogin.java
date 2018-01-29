@@ -25,7 +25,7 @@ public class KidMathLogin{
 	public static Scene scene;
 	private static boolean validated;
 	private static boolean loggedIn;
-	final static String filename = "data/Accounts.txt";
+	final static String filename = "Accounts.txt";
 	private static String profileImagePath;
 	private static File selectedFile;
 	private static File destination;
